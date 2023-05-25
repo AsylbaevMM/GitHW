@@ -1,3 +1,3 @@
-import __hello__
+# delete this string and write comment
 
 # print 'Hello world!' without print()

@@ -1,4 +1,4 @@
 # создал файл для выполнения дз
 
 for i in range(5):
-    print('Hello world! ' * i)
+    print('Hello world! ' * i + 'wow')
